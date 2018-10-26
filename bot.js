@@ -34,4 +34,4 @@ if (message.content ===  "+ping") {
 }
 });
 
-client.login('NTA1MDkxNjAyNDM2NTg3NTI5.DrOnCA.3gWtdFZZMqsPvoGFSBx3qEhZbGc');
+client.login('');
