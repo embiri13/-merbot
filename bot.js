@@ -34,4 +34,4 @@ if (message.content ===  "+ping") {
 }
 });
 
-client.login('');
+client.login('process.env.BOT_TOKEN');
